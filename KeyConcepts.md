@@ -18,4 +18,6 @@ After setting it up, you can access and modify files without logging in every ti
 ### SSH vs HTTPS
 |    Feature    |       SSH       |      HTTPS        |
 |---------------|-----------------|-------------------|
-|    Security   | More Secure(Key-based)     | Less Secure(Password-based)
+|    Security   | More Secure (Key-based)     | Less Secure (Password-based)|
+|    Speed      | Slightly faster | Slightly slower (credentials needed) |
+|    Best for   | Frequent users, automation, large teams | Occasional users, quick setup|
