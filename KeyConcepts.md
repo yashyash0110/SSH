@@ -14,6 +14,7 @@
 SSH is the first step to securly connect your local machine to a Github repo.
 After setting it up, you can access and modify files without logging in every time. 
 ```
+**HTTPS** - HyperText Transfer Protocol Secure
 
 ### SSH vs HTTPS
 |    Feature    |       SSH       |      HTTPS        |
@@ -21,3 +22,5 @@ After setting it up, you can access and modify files without logging in every ti
 |    Security   | More Secure (Key-based)     | Less Secure (Password-based)|
 |    Speed      | Slightly faster | Slightly slower (credentials needed) |
 |    Best for   | Frequent users, automation, large teams | Occasional users, quick setup|
+|   Purpose     | Secure remote access to systems & encrypted file transfers | Secure web communication over the internet
+|   Use Cases   | Logging into remote servers, Git authentication, executing commands remotely| Browsing websites, API requests, Git operation|
